@@ -8,7 +8,7 @@
 * Создать файл в котором будет проводиться работа, с указанием расширения например **Work.txt** или **List.md**
 Перед началом работы необходимо представиться Git'у используя команды 
 git config --global user.name "Your Name" - указать имя и
-git config --global user.email "e@w.com" - казать почту
+git config --global user.email "e@w.com" - указать почту для работы
 
 ## Git Comands
 
